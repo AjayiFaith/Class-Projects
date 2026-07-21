@@ -45,7 +45,7 @@
     font-size: 12px;
     margin-top: 1.5rem;
     margin: 1.5rem auto 1.5rem auto;
-    width: 70%;
+    width: 80%;
   }
   aside {
     display: none;
@@ -70,9 +70,9 @@
   #bg-image {
     background-image: url(notepad-icon.jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top center;
     background-size: contain;
-    width: 50%;
+    width: 70%;
     margin: auto;
     height: 21.875rem;
     opacity: 0.1;
