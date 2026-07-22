@@ -2,9 +2,10 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family:"Edu VIC WA NT Hand",verdana;
+  word-spacing: 1px;
 }
   body{
-    font-family:Arial;
     padding-top: 3.125rem;
   }
    .container{
